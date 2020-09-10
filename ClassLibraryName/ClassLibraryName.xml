@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibraryName</name>
+    </assembly>
+    <members>
+        <member name="M:ClassLibraryName.Name.#ctor(System.String)">
+            <summary>
+            The Name class with one method
+            </summary>
+            <param name="name"></param>
+        </member>
+        <member name="M:ClassLibraryName.Name.MyNameIs">
+            <summary>
+            Method that returns your name
+            </summary>
+            <returns>"My name is " + _myname</returns>
+        </member>
+    </members>
+</doc>
